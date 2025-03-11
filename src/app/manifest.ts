@@ -13,17 +13,17 @@ export default function manifest(): MetadataRoute.Manifest {
         theme_color: '#000000',
         icons: [
             {
-                src: "icons/yaochai-192.png",
+                src: "icons/icons-192.png",
                 type: "image/png",
                 sizes: "192x192"
             },
             {
-                src: "icons/yaochai-256.png",
+                src: "icons/icons-256.png",
                 type: "image/png",
                 sizes: "256x256"
             },
             {
-                src: "icons/yaochai-512.png",
+                src: "icons/icons-512.png",
                 type: "image/png",
                 sizes: "512x512"
             }

@@ -27,7 +27,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="apple-touch-icon" sizes="192x192" href="/icons/yaochai-192.png" />
+        <link rel="apple-touch-icon" sizes="192x192" href="/icons/icons-192.png" />
         <link rel="manifest" href="/manifest.webmanifest" />
       </head>
       <body
